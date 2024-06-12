@@ -1,0 +1,1 @@
+We aim to access fresh data about the real estate market in Egypt to derive valuable insights through data visualization and summary statistics. Additionally, we'll use this data to develop a model that can predict house prices.
